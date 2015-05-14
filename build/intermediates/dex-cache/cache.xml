@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android studio\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\AndroidStudioWork\GuideView\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-8331999010b12eb9956bb758f6643322974b0394.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioWork\GuideView\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\AndroidStudioWork\GuideView\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c132045efea213cea7d78e9f118cc4d38a50c5a5.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioWork\GuideView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="E:\AndroidStudioWork\GuideView\app\build\intermediates\pre-dexed\debug\classes-9b6658ccec9a18962fb3fc4f834d5fd2c00ea654.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioWork\GuideView\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\AndroidStudioWork\GuideView\app\build\intermediates\pre-dexed\debug\classes-62c26a2cce75958923afbb4ed1653c454e97c9f0.jar" />
+    </item>
+
+</items>
